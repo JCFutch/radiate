@@ -112,8 +112,8 @@ return array(
 	'redis' => array(
 
 		'default' => array(
-			'host'     => '127.0.0.1',
-			'port'     => 6379,
+			'host'     => $_SERVER["CACHE1_HOST"],
+			'port'     => $_SERVER["CACHE1_PORT"],
 			'database' => 0,
 		),
 
