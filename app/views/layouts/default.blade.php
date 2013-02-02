@@ -15,13 +15,7 @@
         <meta name="viewport" content="width=device-width">
 
         <!-- CSS -->
-        <link rel="stylesheet" href="{{ asset('assets/styles/plugins/normalize.css')}} ">
-        <link href="{{ asset('assets/styles/plugins/bootstrap.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets/styles/plugins/bootstrap-responsive.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets/styles/plugins/font-awesome.min.css') }}" rel="stylesheet">
-        <link rel="stylesheet" href="{{ asset('assets/styles/plugins/boilerplate-pre.css')}} ">
-        <link rel="stylesheet" href="{{ asset('assets/styles/shared/main.css')}} ">
-        <link rel="stylesheet" href="{{ asset('assets/styles/plugins/boilerplate-post.css')}} ">
+        <link rel="stylesheet" href="{{ asset('assets/styles/css/main.css')}} ">
 
         <!-- JS -->
         <script src="{{ asset('assets/scripts/js/vendor/modernizr-2.6.2.min.js') }}"></script>
